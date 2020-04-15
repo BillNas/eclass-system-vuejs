@@ -1,3 +1,29 @@
-# eclass-system-vuejs
-A simple eclass system where you can login as a professor and add lessons and posts.<br>
-To get access to the admin profile just create a user with the username "<b>System Admin</b>"
+# eclass-system
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
