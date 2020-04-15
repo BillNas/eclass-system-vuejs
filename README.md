@@ -1,5 +1,6 @@
-To get access to the admin user just create a user with the username <b> System Admin </b> <br>
-Made with 
+To get access to the admin user just create a user with the username <b> System Admin </b> 
+<br><br>
+Made with:
 <ul>
   <li>Vue JS, Vuex Store </li>
   <li>Boostrap </li>
