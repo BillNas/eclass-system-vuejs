@@ -2,7 +2,8 @@ To get access to the admin user just create a user with the username <b> System 
 <br><br>
 Made with:
 <ul>
-  <li>Vue JS, Vuex Store </li>
+  <li>Vue JS</li>
+  <li>Vuex Store </li>
   <li>Boostrap </li>
   <li>Firebase</li>
  </ul>
